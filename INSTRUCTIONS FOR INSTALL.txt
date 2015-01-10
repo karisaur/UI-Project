@@ -1,0 +1,28 @@
+INSTRUCTIONS FOR INSTALL:
+
+1. Install Processing 2.0.3 (Version is important!)
+2. On the top right drop-down menu, click "Add Mode"
+3. Install Android mode
+4. Download the Android SDK from here: https://developer.android.com/sdk/index.html?hl=i
+5. Install the Android SDK: remember to include your Android version.
+6. Follow these instructions: http://createdigitalmotion.com/2010/09/getting-started-with-processing-for-android/
+
+7. Download the ketai library from here: https://code.google.com/p/ketai/
+8. Unzip the file and add the ketai folder to Processing's library folder in your Documents.
+9. Download the apwidgets library from here: https://code.google.com/p/apwidgets/
+9. Add it to your library folder.
+
+Note: Remember to turn on Developer Options for Android.
+
+Processing files (.pde) can be opened in any text editor such as Notepad++, but preferrably should be
+opened in Processing regardless of if you have the Android Environment.
+
+With Processing, you can open any of the .pde files, and the other classes will import.
+If you're not using Processing, you will need to open all the .pde files separately.
+
+For any questions, please contact: deniseenriquez@yahoo.com
+
+
+Enriquez, Denise: cse13152
+King, Dallis: cse13148
+Puder, Samantha: cse93075
